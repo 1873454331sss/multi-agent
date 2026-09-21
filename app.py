@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from analyzer import run_full_analysis
 from database import get_history, init_db
@@ -7,6 +8,14 @@ app = FastAPI(
     title="多 Agent 舆情分析 API",
     description="输入关键词，自动输出带情感分析和风险预警的舆情报告",
     version="1.0.0"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=False,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
