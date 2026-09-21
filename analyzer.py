@@ -58,7 +58,16 @@ class LocalDataTools:
                     "url": item.get("url", ""),
                     "siteName": item.get("siteName", "")
                 })
-            return articles
+
+            # 按标题去重
+            seen = set()
+            unique_articles = []
+            for item in articles:
+                title = item.get("title", "")
+                if title not in seen:
+                    seen.add(title)
+                    unique_articles.append(item)
+            return unique_articles
         except Exception:
             return []
 
@@ -239,6 +248,7 @@ def supervisor_agent(state: AgentState) -> Dict[str, Any]:
 
 
 def sentiment_agent(state: AgentState) -> Dict[str, Any]:
+    """负责取数据 + 情感分析，是唯一调用 load_data 的节点"""
     try:
         raw_data = skills.load("load_data")(state["query"])
         if not raw_data:
@@ -251,16 +261,14 @@ def sentiment_agent(state: AgentState) -> Dict[str, Any]:
 
 
 def competitor_agent(state: AgentState) -> Dict[str, Any]:
+    """复用 sentiment_agent 取回的数据，不再自己调 load_data"""
     try:
         raw_data = state.get("raw_data", [])
         if not raw_data:
-            raw_data = skills.load("load_data")(state["query"])
-        if not raw_data:
-            return {"status": {"competitor": "failed"}, "error_log": ["竞品分析失败: 无数据"]}
+            return {"status": {"competitor": "skipped"}, "error_log": ["竞品分析跳过: 无数据"]}
         all_text = " ".join([item.get("content", "") for item in raw_data])
         entities = skills.load("entity")(all_text)
         return {
-            "raw_data": raw_data,
             "competitor_result": {"competitors": entities[:5], "count": len(entities)},
             "status": {"competitor": "completed"}
         }
@@ -269,18 +277,16 @@ def competitor_agent(state: AgentState) -> Dict[str, Any]:
 
 
 def risk_agent(state: AgentState) -> Dict[str, Any]:
+    """复用 sentiment_agent 取回的数据，不再自己调 load_data"""
     try:
         raw_data = state.get("raw_data", [])
         if not raw_data:
-            raw_data = skills.load("load_data")(state["query"])
-        if not raw_data:
-            return {"status": {"risk": "failed"}, "error_log": ["风险检测失败: 无数据"]}
+            return {"status": {"risk": "skipped"}, "error_log": ["风险检测跳过: 无数据"]}
         all_text = " ".join([item.get("content", "") for item in raw_data])
         risk_keywords = ["下滑", "下降", "危机", "负面", "投诉", "质量", "召回", "诉讼", "监管", "压力", "调查", "挑战", "审查", "停止"]
         found = list(set([kw for kw in risk_keywords if kw in all_text]))
         level = "critical" if len(found) > 4 else "high" if len(found) > 2 else "medium" if len(found) > 0 else "low"
         return {
-            "raw_data": raw_data,
             "risk_result": {"risks": found, "level": level, "count": len(found)},
             "status": {"risk": "completed"}
         }
