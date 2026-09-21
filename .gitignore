@@ -1,0 +1,36 @@
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 数据库
+*.db
+*.sqlite3
+
+# 日志
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 测试和缓存
+.pytest_cache/
+.mypy_cache/
