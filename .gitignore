@@ -34,3 +34,8 @@ Thumbs.db
 # 测试和缓存
 .pytest_cache/
 .mypy_cache/
+
+# 本地测试文件
+test.py
+test_cases.json
+test_results.json
