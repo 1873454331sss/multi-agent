@@ -229,14 +229,14 @@ class LocalDataTools:
             lines.append(f"- **仲裁结果**：{arbitration.get('final_label')}")
             lines.append(f"- **仲裁理由**：{arbitration.get('reason')}")
         else:
-            if overall.get('label') == 'positive' and not risks:
-                conclusion = "整体舆情态势良好，建议继续保持关注。"
-            elif overall.get('label') == 'positive' and risks:
-                conclusion = "舆情总体积极，但存在一定风险点，建议重点监测。"
-            elif overall.get('label') == 'negative' and risks:
-                conclusion = "舆情偏消极且存在风险，建议启动应急响应。"
+            if alert_level == "处置":
+                conclusion = "舆情存在严重风险，建议启动应急响应。"
+            elif alert_level == "预警":
+                conclusion = "舆情存在一定风险，建议重点监测。"
+            elif alert_level == "关注":
+                conclusion = "舆情出现风险信号，建议持续关注。"
             else:
-                conclusion = "舆情态势复杂，建议人工介入做进一步深度分析。"
+                conclusion = "整体舆情态势良好，建议继续保持关注。"
             lines.append(f"> {conclusion}")
         lines.append("")
         lines.append("## 六、告警与工单")
