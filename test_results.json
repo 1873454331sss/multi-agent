@@ -1,0 +1,3574 @@
+{
+  "total": 300,
+  "alert_accuracy": 100.0,
+  "ticket_accuracy": 100.0,
+  "by_category": {
+    "正常负面": {
+      "total": 80,
+      "correct": 80,
+      "accuracy": 100.0
+    },
+    "正常正面": {
+      "total": 60,
+      "correct": 60,
+      "accuracy": 100.0
+    },
+    "严重风险": {
+      "total": 50,
+      "correct": 50,
+      "accuracy": 100.0
+    },
+    "否定": {
+      "total": 50,
+      "correct": 50,
+      "accuracy": 100.0
+    },
+    "冲突": {
+      "total": 60,
+      "correct": 60,
+      "accuracy": 100.0
+    }
+  },
+  "results": [
+    {
+      "name": "正常负面_0",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_1",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_2",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_3",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_4",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_5",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_6",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_7",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_8",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_9",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_10",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_11",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_12",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_13",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_14",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_15",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_16",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_17",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_18",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_19",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_20",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_21",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_22",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_23",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_24",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_25",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_26",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_27",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_28",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_29",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_30",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_31",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_32",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_33",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_34",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_35",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_36",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_37",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_38",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_39",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_40",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_41",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_42",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_43",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_44",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_45",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_46",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_47",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_48",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_49",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_50",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_51",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_52",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_53",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_54",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_55",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_56",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_57",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_58",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_59",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_60",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_61",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_62",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_63",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_64",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_65",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_66",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_67",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_68",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_69",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_70",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_71",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_72",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_73",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_74",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_75",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_76",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_77",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常负面_78",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "关注",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常负面_79",
+      "category": "正常负面",
+      "expected": {
+        "alert_level": [
+          "关注",
+          "预警"
+        ]
+      },
+      "actual": {
+        "alert_level": "预警",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "正常正面_0",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_1",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_2",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_3",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_4",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_5",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_6",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_7",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_8",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_9",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_10",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_11",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_12",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_13",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_14",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_15",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_16",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_17",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_18",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_19",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_20",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_21",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_22",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_23",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_24",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_25",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_26",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_27",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_28",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_29",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_30",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_31",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_32",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_33",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_34",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_35",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_36",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_37",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_38",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_39",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_40",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_41",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_42",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_43",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_44",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_45",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_46",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_47",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_48",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_49",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_50",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_51",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_52",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_53",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_54",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_55",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_56",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_57",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_58",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "正常正面_59",
+      "category": "正常正面",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "严重风险_0",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_1",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_2",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_3",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_4",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_5",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_6",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_7",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_8",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_9",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_10",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_11",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_12",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_13",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_14",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_15",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_16",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_17",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_18",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_19",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_20",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_21",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_22",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_23",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_24",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_25",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_26",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_27",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_28",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_29",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_30",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_31",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_32",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_33",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_34",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_35",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_36",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_37",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_38",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_39",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_40",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_41",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_42",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_43",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_44",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_45",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_46",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_47",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_48",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "严重风险_49",
+      "category": "严重风险",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "否定_0",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_1",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_2",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_3",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_4",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_5",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_6",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_7",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_8",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_9",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_10",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_11",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_12",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_13",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_14",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_15",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_16",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_17",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_18",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_19",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_20",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_21",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_22",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_23",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_24",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_25",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_26",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_27",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_28",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_29",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_30",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_31",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_32",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_33",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_34",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_35",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_36",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_37",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_38",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_39",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_40",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_41",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_42",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_43",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_44",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_45",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_46",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_47",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_48",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "否定_49",
+      "category": "否定",
+      "expected": {
+        "alert_level": "无"
+      },
+      "actual": {
+        "alert_level": "无",
+        "ticket_id": ""
+      }
+    },
+    {
+      "name": "冲突_0",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_1",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_2",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_3",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_4",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_5",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_6",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_7",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_8",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_9",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_10",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_11",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_12",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_13",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_14",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_15",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_16",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_17",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_18",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_19",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_20",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_21",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_22",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_23",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_24",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_25",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_26",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_27",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_28",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_29",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_30",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_31",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_32",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_33",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_34",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_35",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_36",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_37",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_38",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_39",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_40",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_41",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_42",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_43",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_44",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_45",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_46",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_47",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_48",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_49",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_50",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_51",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_52",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_53",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_54",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_55",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_56",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_57",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_58",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    },
+    {
+      "name": "冲突_59",
+      "category": "冲突",
+      "expected": {
+        "alert_level": "处置"
+      },
+      "actual": {
+        "alert_level": "处置",
+        "ticket_id": "TICKET_20261003195928"
+      }
+    }
+  ]
+}

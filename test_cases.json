@@ -1,0 +1,4742 @@
+[
+  {
+    "name": "正常负面_0",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_1",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_2",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_3",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_4",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_5",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_6",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_7",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_8",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_9",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_10",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_11",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_12",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_13",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_14",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_15",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_16",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_17",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉投诉问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_18",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉售后差问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_19",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_20",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_21",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_22",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_23",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_24",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_25",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_26",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_27",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉售后差问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_28",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_29",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_30",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_31",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_32",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_33",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉售后差问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_34",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_35",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_36",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_37",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_38",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉售后差问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_39",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_40",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车被投诉投诉问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_41",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_42",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉售后差问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_43",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_44",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_45",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_46",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_47",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_48",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_49",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_50",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_51",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_52",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_53",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_54",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_55",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_56",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉投诉问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_57",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉售后差问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_58",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_59",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_60",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_61",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_62",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_63",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_64",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_65",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_66",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_67",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_68",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉质量问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_69",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_70",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车被投诉异响问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_71",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_72",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "理想汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_73",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉充电故障问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_74",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车被投诉续航虚标问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_75",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉投诉问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_76",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车被投诉投诉问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_77",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "智己汽车被投诉漏水问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_78",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "极氪汽车被投诉投诉问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常负面_79",
+    "category": "正常负面",
+    "raw_data": [
+      {
+        "content": "问界汽车被投诉维修贵问题，用户反映强烈",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": [
+        "关注",
+        "预警"
+      ]
+    }
+  },
+  {
+    "name": "正常正面_0",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "问界汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_1",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "问界汽车销量增长，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_2",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "问界汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_3",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "问界汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_4",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "问界汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_5",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_6",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "极氪汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_7",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_8",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "智己汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_9",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_10",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_11",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_12",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_13",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车销量增长，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_14",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "极氪汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_15",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_16",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_17",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_18",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_19",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_20",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_21",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "极氪汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_22",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_23",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_24",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_25",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_26",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_27",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_28",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "问界汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_29",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "极氪汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_30",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_31",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_32",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_33",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_34",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "智己汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_35",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车销量增长，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_36",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_37",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_38",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_39",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "智己汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_40",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车销量增长，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_41",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "问界汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_42",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_43",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "智己汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_44",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车销量增长，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_45",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "智己汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_46",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_47",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_48",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车销量增长，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_49",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "极氪汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_50",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "小鹏汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_51",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_52",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车销量增长，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_53",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_54",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "智己汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_55",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "蔚来汽车交付提升，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_56",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "极氪汽车销量增长，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_57",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车口碑良好，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_58",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "理想汽车技术创新，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "正常正面_59",
+    "category": "正常正面",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车用户满意，用户评价积极",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "严重风险_0",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_1",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "理想汽车发生刹车失灵，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_2",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车发生刹车失灵，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_3",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "小鹏汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_4",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_5",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_6",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_7",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_8",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车发生自燃，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_9",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "问界汽车发生电池起火，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_10",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生电池起火，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_11",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "问界汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_12",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生自燃，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_13",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "问界汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_14",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "问界汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_15",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "问界汽车发生刹车失灵，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_16",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_17",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_18",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "问界汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_19",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_20",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生电池起火，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_21",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_22",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车发生刹车失灵，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_23",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "小鹏汽车发生刹车失灵，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_24",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "蔚来汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_25",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "蔚来汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_26",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车发生自燃，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_27",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_28",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "蔚来汽车发生刹车失灵，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_29",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "问界汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_30",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生电池起火，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_31",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_32",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "小鹏汽车发生电池起火，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_33",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "理想汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_34",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "理想汽车发生电池起火，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_35",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_36",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_37",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_38",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_39",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_40",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_41",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_42",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生自燃，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_43",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生刹车失灵，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_44",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生自燃，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_45",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "小鹏汽车发生自燃，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_46",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "蔚来汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_47",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车发生自动驾驶事故，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_48",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "极氪汽车发生失控，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "严重风险_49",
+    "category": "严重风险",
+    "raw_data": [
+      {
+        "content": "智己汽车发生安全气囊，引发广泛关注",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "否定_0",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "极氪汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_1",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车没有发生自燃，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_2",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "小鹏汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_3",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "理想汽车没有发生自燃，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_4",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "蔚来汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_5",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生自动驾驶事故，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_6",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "蔚来汽车没有发生电池起火，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_7",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生自动驾驶事故，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_8",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生自燃，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_9",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_10",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_11",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "极氪汽车没有发生失控，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_12",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生自动驾驶事故，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_13",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_14",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "智己汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_15",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_16",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "理想汽车没有发生失控，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_17",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生失控，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_18",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生电池起火，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_19",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "小鹏汽车没有发生失控，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_20",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "蔚来汽车没有发生电池起火，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_21",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_22",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生自动驾驶事故，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_23",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_24",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "蔚来汽车没有发生电池起火，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_25",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_26",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "智己汽车没有发生自燃，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_27",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "极氪汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_28",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_29",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "小鹏汽车没有发生自燃，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_30",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生电池起火，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_31",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "小鹏汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_32",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "小鹏汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_33",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "极氪汽车没有发生自燃，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_34",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生自动驾驶事故，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_35",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生自燃，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_36",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "蔚来汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_37",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "理想汽车没有发生电池起火，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_38",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_39",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生失控，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_40",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "智己汽车没有发生电池起火，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_41",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "智己汽车没有发生失控，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_42",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生自燃，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_43",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "问界汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_44",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车没有发生电池起火，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_45",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_46",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "智己汽车没有发生刹车失灵，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_47",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_48",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "极氪汽车没有发生自动驾驶事故，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "否定_49",
+    "category": "否定",
+    "raw_data": [
+      {
+        "content": "极氪汽车没有发生安全气囊，官方已澄清",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "无"
+    }
+  },
+  {
+    "name": "冲突_0",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车技术创新，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_1",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车口碑良好，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_2",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "极氪汽车交付提升，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_3",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车用户满意，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_4",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "理想汽车技术创新，但自燃事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_5",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "蔚来汽车交付提升，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_6",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "小鹏汽车技术创新，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_7",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "小鹏汽车口碑良好，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_8",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "理想汽车技术创新，但自燃事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_9",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车技术创新，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_10",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "小鹏汽车技术创新，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_11",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "理想汽车交付提升，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_12",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车销量增长，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_13",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车用户满意，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_14",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "问界汽车用户满意，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_15",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "小鹏汽车技术创新，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_16",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车销量增长，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_17",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车销量增长，但自燃事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_18",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "小鹏汽车口碑良好，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_19",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车销量增长，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_20",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "极氪汽车用户满意，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_21",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车用户满意，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_22",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车交付提升，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_23",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "理想汽车用户满意，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_24",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "极氪汽车交付提升，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_25",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "理想汽车技术创新，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_26",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "问界汽车口碑良好，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_27",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "小鹏汽车销量增长，但自燃事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_28",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "极氪汽车用户满意，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_29",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "问界汽车口碑良好，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_30",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车技术创新，但自燃事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_31",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车交付提升，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_32",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "蔚来汽车用户满意，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_33",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "理想汽车技术创新，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_34",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车用户满意，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_35",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车技术创新，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_36",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "小鹏汽车用户满意，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_37",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车销量增长，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_38",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "蔚来汽车用户满意，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_39",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "蔚来汽车交付提升，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_40",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车口碑良好，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_41",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车交付提升，但电池起火事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_42",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车技术创新，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_43",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "极氪汽车用户满意，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_44",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "问界汽车用户满意，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_45",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车用户满意，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_46",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "蔚来汽车交付提升，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_47",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "问界汽车销量增长，但安全气囊事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_48",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "问界汽车口碑良好，但自燃事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_49",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车技术创新，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_50",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车口碑良好，但自燃事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_51",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "理想汽车口碑良好，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_52",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "极氪汽车技术创新，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_53",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "问界汽车用户满意，但失控事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_54",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车用户满意，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_55",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "智己汽车销量增长，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_56",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "比亚迪汽车用户满意，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_57",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "特斯拉汽车销量增长，但刹车失灵事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_58",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "极氪汽车销量增长，但自燃事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  },
+  {
+    "name": "冲突_59",
+    "category": "冲突",
+    "raw_data": [
+      {
+        "content": "问界汽车交付提升，但自动驾驶事故事故频发",
+        "siteName": "测试",
+        "title": "测试标题",
+        "url": ""
+      }
+    ],
+    "expected": {
+      "alert_level": "处置"
+    }
+  }
+]

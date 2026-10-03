@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Render 给的是 postgresql://，SQLAlchemy 异步版需要 postgresql+asyncpg://
 DATABASE_URL = os.getenv("DATABASE_URL", "").replace("postgresql://", "postgresql+asyncpg://")
 
 engine = create_async_engine(DATABASE_URL, echo=False) if DATABASE_URL else None
@@ -24,11 +23,11 @@ class AnalysisHistory(Base):
     report: Mapped[str] = mapped_column(Text)
     sentiment_label: Mapped[str] = mapped_column(Text)
     risk_level: Mapped[str] = mapped_column(Text)
+    alert_level: Mapped[str] = mapped_column(Text, default="无")
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.now)
 
 
 async def init_db():
-    """启动时建表"""
     if not engine:
         return
     async with engine.begin() as conn:
@@ -36,22 +35,21 @@ async def init_db():
 
 
 async def save_analysis(query: str, result: Dict[str, Any]):
-    """保存一次分析记录"""
     if not AsyncSessionLocal:
         return
     async with AsyncSessionLocal() as session:
         record = AnalysisHistory(
             query=query,
             report=result.get("report", ""),
-            sentiment_label=result.get("data", {}).get("sentiment", {}).get("label", "neutral"),
-            risk_level=result.get("data", {}).get("risk_level", "low")
+            sentiment_label=result.get("data", {}).get("sentiment", {}).get("overall", {}).get("label", "neutral"),
+            risk_level=result.get("data", {}).get("risk_level", "low"),
+            alert_level=result.get("data", {}).get("alert_level", "无")
         )
         session.add(record)
         await session.commit()
 
 
 async def get_history(limit: int = 10) -> List[Dict[str, Any]]:
-    """查询最近的分析记录"""
     if not AsyncSessionLocal:
         return []
     async with AsyncSessionLocal() as session:
@@ -66,6 +64,7 @@ async def get_history(limit: int = 10) -> List[Dict[str, Any]]:
                 "report": r.report,
                 "sentiment_label": r.sentiment_label,
                 "risk_level": r.risk_level,
+                "alert_level": r.alert_level,
                 "created_at": r.created_at.isoformat() if r.created_at else None,
             }
             for r in rows

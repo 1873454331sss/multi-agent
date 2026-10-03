@@ -5,9 +5,9 @@ from analyzer import run_full_analysis
 from database import get_history, init_db
 
 app = FastAPI(
-    title="多 Agent 舆情分析 API",
-    description="输入关键词，自动输出带情感分析和风险预警的舆情报告",
-    version="1.0.0"
+    title="多 Agent 舆情告警 API",
+    description="输入品牌名，自动输出情感分析、竞品对比、风险预警、告警等级和工单",
+    version="3.0.0"
 )
 
 app.add_middleware(
@@ -30,7 +30,7 @@ async def startup():
 
 @app.get("/")
 async def root():
-    return {"message": "舆情分析 API 已启动，请访问 /docs 查看文档"}
+    return {"message": "舆情告警 API 已启动，请访问 /docs 查看文档"}
 
 
 @app.post("/analyze")
